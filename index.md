@@ -23,7 +23,7 @@ description: "Research in robot manipulation, vision-language-action, 3D percept
   <strong>Researcher</strong> — Korea Electronics Technology Institute (KETI)<br>
   <strong>M.S. Student</strong> — Chung-Ang University, Mechanical Engineering<br>
   <strong>Location</strong> — Republic of Korea<br>
-  <strong>Email</strong> — <em>YOUR_VERIFIED_EMAIL_HERE</em><br>
+  <strong>Email</strong> — <em>kmingi98@keti.re.kr</em><br>
   <strong>GitHub</strong> — <a href="https://github.com/Ignimkk">github.com/Ignimkk</a>
 </div>
 
@@ -59,7 +59,7 @@ Publications and preprints will be listed here when publicly available.
 
 - [GitHub profile](https://github.com/Ignimkk)
 - [Korea Electronics Technology Institute (KETI)](https://www.keti.re.kr/)
-- [Chung-Ang University](https://www.cau.ac.kr/)
+- [Chung-Ang University]([https://www.cau.ac.kr/](https://cau-aisl.github.io/))
 
 <div class="note">
   <strong>OpenReview registration:</strong> Replace YOUR_VERIFIED_EMAIL_HERE with the email address verified in OpenReview before using this page as your Homepage URL.
