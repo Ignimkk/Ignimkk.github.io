@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Minki Kwak | Robotics Researcher"
+title: "Mingi Kwak | Robotics Researcher"
 description: "Research in robot manipulation, vision-language-action, 3D perception, and motion planning."
 ---
 
@@ -15,7 +15,7 @@ description: "Research in robot manipulation, vision-language-action, 3D percept
   .note { border-left: 3px solid #7ca9df; padding: 0.7rem 1rem; background: #f4f8fe; margin: 1.5rem 0; font-size: 0.95rem; }
 </style>
 
-# Minki Kwak
+# Mingi Kwak
 
 <p class="intro">Robotics Researcher · Robot Manipulation · Vision-Language-Action</p>
 
