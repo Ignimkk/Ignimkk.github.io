@@ -61,6 +61,3 @@ Publications and preprints will be listed here when publicly available.
 - [Korea Electronics Technology Institute (KETI)](https://www.keti.re.kr/)
 - [Chung-Ang University](https://cau-aisl.github.io/)
 
-<div class="note">
-  <strong>OpenReview registration:</strong> Replace YOUR_VERIFIED_EMAIL_HERE with the email address verified in OpenReview before using this page as your Homepage URL.
-</div>
